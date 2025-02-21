@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GEORGES DOC\\CODING\\Coding With C#\\Intoduction_To_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF8DCA4-FCF7-4B08-BA2A-C71B6C451590}|Intoduction_To_C#\\Intoduction_To_C#.csproj|e:\\georges doc\\coding\\coding with c#\\intoduction_to_c#\\intoduction_to_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF8DCA4-FCF7-4B08-BA2A-C71B6C451590}|Intoduction_To_C#\\Intoduction_To_C#.csproj|solutionrelative:intoduction_to_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GEORGES DOC\\CODING\\Coding With C#\\Intoduction_To_C#\\Intoduction_To_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Intoduction_To_C#\\Program.cs",
+              "ToolTip": "E:\\GEORGES DOC\\CODING\\Coding With C#\\Intoduction_To_C#\\Intoduction_To_C#\\Program.cs",
+              "RelativeToolTip": "Intoduction_To_C#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:38:05.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

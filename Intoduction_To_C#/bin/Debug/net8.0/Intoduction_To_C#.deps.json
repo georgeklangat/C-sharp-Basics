@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Intoduction_To_C#/1.0.0": {
+        "runtime": {
+          "Intoduction_To_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intoduction_To_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

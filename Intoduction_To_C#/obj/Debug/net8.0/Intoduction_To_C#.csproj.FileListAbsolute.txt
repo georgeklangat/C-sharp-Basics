@@ -12,3 +12,4 @@ E:\GEORGES DOC\CODING\Coding With C#\Intoduction_To_C#\Intoduction_To_C#\obj\Deb
 E:\GEORGES DOC\CODING\Coding With C#\Intoduction_To_C#\Intoduction_To_C#\obj\Debug\net8.0\Intoduction_To_C#.pdb
 E:\GEORGES DOC\CODING\Coding With C#\Intoduction_To_C#\Intoduction_To_C#\obj\Debug\net8.0\Intoduction_To_C#.genruntimeconfig.cache
 E:\GEORGES DOC\CODING\Coding With C#\Intoduction_To_C#\Intoduction_To_C#\obj\Debug\net8.0\ref\Intoduction_To_C#.dll
+E:\GEORGES DOC\CODING\Coding With C#\Intoduction_To_C#\Intoduction_To_C#\obj\Debug\net8.0\Intoduction_To_C#.sourcelink.json

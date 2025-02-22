@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Intoduction_To_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dd4b4683b6ebc75449e30a0f28b8e70283e554b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f68e16b629a829cfa6aaab830063df2088ff7c47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intoduction_To_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intoduction_To_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
